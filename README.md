@@ -30,6 +30,3 @@ A simple Rock-Paper-Scissors game against the computer.
    ```
    Or use the "Run" button in VS Code.
 
-## Notes
-- These projects are for educational purposes and can be modified for further learning.
-- If you encounter any issues, ensure all dependencies are installed and the correct Python interpreter is selected in VS Code.
